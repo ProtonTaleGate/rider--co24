@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with JetBrains Rider for PC | JetBrains Rider for Windows vip Script: refactoring-tools & docker-support, the #1
 
 
 
